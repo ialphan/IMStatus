@@ -1,5 +1,5 @@
 #IMStatus
-Get the instant messenger status(online, offline) of the specified user for a specific service (AIM, Facebook, GTalk, ICQ, Skype, YAHOO) in PHP.
+Get the instant messenger status(online or offline only) of the specified user for a specific service (AIM, Facebook, GTalk, ICQ, Skype, YAHOO) in PHP.
 
 <br>
 ##Supported IM Services
