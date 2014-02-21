@@ -4,10 +4,10 @@ Get the instant messenger status(online, offline) of the specified user for a sp
 <br>
 ##Supported IM Services
 *	**getAIMStatus($screenName)** for AIM where **$screenName** is the screenname.
-*	**getFacebookStatus($appID, $appSecret)** for Facebook where **$screenName** is the GTalk handle (e.g. abc@gmail.com) and **$password** is the password for that handle. It requires: 
-	* Application to be created and 
-	* user_online_presence (chat status) as permission to be granted then user needs to 
-	* Login with using the app's settings. 
+*	**getFacebookStatus($appID, $appSecret)** for Facebook where **$appID** is the application id and **$appSecret** is the application secret. It requires: 
+	* Application to be created,
+	* user_online_presence (chat status) as permission to be granted, 
+	* Login using the app's settings.
 *	**getGTalkStatus($screenName, $password)** for GTalk where **$screenName** is the GTalk handle (e.g. abc@gmail.com) and **$password** is the password for that handle.
 *	**getICQStatus($icqNumber)** for ICQ where **$icqNumber** is the ICQ number.
 *	**getSkypeStatus($userName)** for Skype where **$userName** is the username.
