@@ -15,7 +15,7 @@ Get the instant messenger status(online, offline) of the specified user for a sp
 
 <br>
 ##Usage
-Call the desired service's function with required parameters.
+Call the desired service's function with required parameter(s).
 
 <br>
 
